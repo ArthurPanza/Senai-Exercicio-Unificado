@@ -1,16 +1,12 @@
 # Senai-Exercicio-Unificado
-Atividade de Versionamento.
+---
+## Atividade de Versionamento
 
--Exercício para Entrega no dia 11 de Julho 2023.
-
---Testando a Compatibilidade.
-
----Iniciando o Merging de Branch com Master.
-
-----Solucionando Conflito Inerente a Versionamento.
-
------Conflito Solucionado.
-
-------Dever Concluído.
-
--------Aguardar Feedback.
+1. Exercício para Entrega no dia 11 de Julho 2023.
+2. Testando a Compatibilidade.
+3. Iniciando o Merging de Branch com Master.
+4. Solucionando Conflito Inerente a Versionamento.
+5. Conflito Solucionado.
+6. Dever Concluído.
+7. Aprimorar ReadMe com VS Code.
+8. Aguardar Feedback.
